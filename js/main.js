@@ -103,7 +103,7 @@ var partyEvent = function() {
       isPartyTime = true;
       time = partyTime;
 	   
-	  partyTimeButton.innerText = "Party Time";
+	  partyTimeButton.innerText = "Party Time!!";
 	  partyTimeButton.style.backgroundColor = "#bc658d";
       
     }
